@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mujeeb1beg-gif.github.io/sitemap.xml

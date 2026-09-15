@@ -1,17 +1,28 @@
-# Mohammad Mujeeb Beg — Personal Website
+# Mohammad Mujeeb Beg — Website V2
 
-This is a static, mobile-responsive personal authority website designed for professional positioning and search/GEO readiness.
+McKinsey-inspired executive/editorial redesign for GitHub Pages, with SEO/GEO foundations.
 
-## Publish free with GitHub Pages
+## Upload to GitHub Pages
+Upload the **contents** of this folder to the root of `mujeeb1beg-gif.github.io`:
 
-1. Create a GitHub repository named exactly: `mujeeb1beg-gif.github.io`
-2. Upload `index.html` and the `assets` folder.
-3. In the repository, open Settings → Pages.
-4. Choose Deploy from branch → `main` → `/ (root)`.
-5. Save. Your site should become:
-   `https://mujeeb1beg-gif.github.io/`
+- `index.html`
+- `robots.txt`
+- `sitemap.xml`
+- `assets/`
+- `articles/`
+
+Do not upload the ZIP file itself.
+
+## Assets
+- `assets/mohammad-mujeeb-beg.png` — supplied portrait, copied as-is; no facial edits or retouching.
+- `assets/engineering-product-leader-award-2026.jpg` — supplied award photo.
+
+## After publishing
+Open:
+`https://mujeeb1beg-gif.github.io/`
+
+Then Google Search Console can be used to request indexing of the homepage and submit the sitemap:
+`https://mujeeb1beg-gif.github.io/sitemap.xml`
 
 ## Important
-- Replace any career/award wording that you want to verify against your official public records before publishing.
-- After publication, add the live URL to Google Search Console and request indexing.
-- Keep the LinkedIn URL in the Person Schema accurate.
+Before publishing, verify the exact wording of your current title, career history and award title against your official records/LinkedIn. The site intentionally avoids unsupported metrics and claims.
