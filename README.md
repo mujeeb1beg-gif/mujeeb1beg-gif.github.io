@@ -1,28 +1,21 @@
-# Mohammad Mujeeb Beg — Website V2
+# Mohammad Mujeeb Beg — Leadership Site
 
-McKinsey-inspired executive/editorial redesign for GitHub Pages, with SEO/GEO foundations.
+A responsive, static personal leadership website designed for GitHub Pages.
 
-## Upload to GitHub Pages
-Upload the **contents** of this folder to the root of `mujeeb1beg-gif.github.io`:
+## Publish on GitHub Pages
 
-- `index.html`
-- `robots.txt`
-- `sitemap.xml`
-- `assets/`
-- `articles/`
+1. Create a new GitHub repository.
+2. Upload the contents of this folder to the repository root.
+3. In the repository settings, open **Pages** and deploy from the `main` branch and `/ (root)` folder.
 
-Do not upload the ZIP file itself.
+No build step is required. The site is served directly from `index.html`.
 
-## Assets
-- `assets/mohammad-mujeeb-beg.png` — supplied portrait, copied as-is; no facial edits or retouching.
-- `assets/engineering-product-leader-award-2026.jpg` — supplied award photo.
+## Included assets
 
-## After publishing
-Open:
-`https://mujeeb1beg-gif.github.io/`
+- Professional portrait
+- GCC Workplace Awards announcement and stage photography
+- Leadership Excellence certificate
 
-Then Google Search Console can be used to request indexing of the homepage and submit the sitemap:
-`https://mujeeb1beg-gif.github.io/sitemap.xml`
+## Update profile information
 
-## Important
-Before publishing, verify the exact wording of your current title, career history and award title against your official records/LinkedIn. The site intentionally avoids unsupported metrics and claims.
+The page is intentionally grounded in supplied award materials. Add validated career history or a contact email directly in `index.html` as desired.
